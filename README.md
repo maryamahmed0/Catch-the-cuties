@@ -46,14 +46,14 @@ Here are some screenshots demonstrating different stages of the game:
 ---
 
 ### 🟡 Wrong but Close
-**The child clicks on a wrong object, but it’s close to the target. A hint like "You’re close!" appears.**
+**The child clicks on a wrong object, but it’s close to the target. A hint like "You’re close!" appears and the number of steps.**
 
 ![Wrong Close](/images/wrong_close_choice.jpg)
 
 ---
 
 ### 🔴 Wrong and Far
-**The child clicks on a wrong object that is far from the target. The feedback shows "You’re far!".**
+**The child clicks on a wrong object that is far from the target. The feedback shows "You’re far!" and the number of steps.**
 
 ![Wrong Far](/images/wrong_far_choice.jpg)
 
