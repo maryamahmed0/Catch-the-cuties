@@ -67,8 +67,8 @@ Here are some screenshots demonstrating different stages of the game:
 
 ## 👥 Team Members
 
-- **Maryam Ahmed**
 - **Mariam Adham**
+- **Maryam Ahmed**
 - **Marwa Abu-Elkheir**
 
 
